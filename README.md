@@ -1,7 +1,7 @@
 # Links to Video
 
-- [Youtube](https://youtube.com/shorts/w5wEnW-1QGU?feature=share)
-- [Tiktok](https://www.tiktok.com/@based.umbrella/video/7432919095684664594)
+- [Youtube](https://www.youtube.com/shorts/jWYthuvMsMo)
+- [Tiktok](https://www.tiktok.com/@based.umbrella/video/7433231281967746325)
 
 # Historical Video Project
 
@@ -10,11 +10,11 @@ AI–Generated Video Project (59 seconds, 9:16 format)
 ## Tools Used
 
 - Midjourney v6: Historical scene generation
-- Runway Gen–2: Scene transitions
+- Hailuo.ai: text to video generation and image to video
 - ChatGPT-4: Script research and text generation
 - ElevenLabs: Voice generation
 - Suno v3: Period–inspired background music
-- CapCut: Final video assembly and text overlay
+- clipchamp: Final video assembly and text overlay
 
 ## Files
 
