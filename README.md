@@ -17,7 +17,7 @@ AI–Generated Video Project (59 seconds, 9:16 format)
 
 ## Files
 
-- `media.mp4`: Main video file (9:16, 59s)
+- `media.mp4`: Main video file was too big for github - please download from youtube or ask Mili if needed (9:16, 59s)
 - `prompts/`: Directory containing AI prompts
 - `source_images/`: Original AI–generated images
 - `music/`: Generated background track
