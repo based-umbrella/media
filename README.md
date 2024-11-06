@@ -1,7 +1,7 @@
 # Links to Video
 
-- [Youtube](https://www.youtube.com/shorts/jWYthuvMsMo)
-- [Tiktok](https://www.tiktok.com/@based.umbrella/video/7433231281967746325)
+- [Youtube](https://youtube.com/shorts/h7ThlHuCFRM?feature=share)
+- [Tiktok](https://www.tiktok.com/@based.umbrella/video/7433973790620519687)
 
 # Historical Video Project
 
@@ -13,12 +13,11 @@ AI–Generated Video Project (59 seconds, 9:16 format)
 - Hailuo.ai: text to video generation and image to video
 - ChatGPT-4: Script research and text generation
 - ElevenLabs: Voice generation
-- Suno v3: Period–inspired background music
 - clipchamp: Final video assembly and text overlay
 
 ## Files
 
-- `argentinafinaaaaal.mp4`: Main video file (9:16, 59s)
+- `media.mp4`: Main video file (9:16, 59s)
 - `prompts/`: Directory containing AI prompts
 - `source_images/`: Original AI–generated images
 - `music/`: Generated background track
